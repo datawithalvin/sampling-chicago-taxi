@@ -6,4 +6,4 @@ Given that the dataset from bigquery-public-data.chicago_taxi_trips.taxi_trips d
 
 Below it's my stratified sampling design for this project. <br>
 
-<img src="../design-sampling-sampling-design.png" alt="sampling design" width="70%">
+<img src="design-sampling-sampling-design.png" alt="sampling design" width="70%">
